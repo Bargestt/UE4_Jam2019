@@ -13,5 +13,6 @@ UCLASS(Blueprintable)
 class SPACETROOPS_API UBlueprintableStaticMeshComponent : public UStaticMeshComponent
 {
 	GENERATED_BODY()
+
 	
 };
