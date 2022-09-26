@@ -7,4 +7,6 @@ Itch page: https://bargestt.itch.io/instant-colonization
 
 Gameplay: https://youtu.be/BoJuKF35VEc
 
-Game is discontinued due to being for jam and big dissapointment for being late by 6 minutes
+![Image1](https://img.itch.zone/aW1hZ2UvNTIwODk5LzI3MDgzNDUucG5n/original/ysBoQb.png)
+
+![Image2](https://img.itch.zone/aW1hZ2UvNTIwODk5LzI3MDgzNDgucG5n/original/AjL1X0.png)
